@@ -1,0 +1,15 @@
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\bin\Debug\net7.0\CalculadoraProject.exe
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\bin\Debug\net7.0\CalculadoraProject.deps.json
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\bin\Debug\net7.0\CalculadoraProject.runtimeconfig.json
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\bin\Debug\net7.0\CalculadoraProject.dll
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\bin\Debug\net7.0\CalculadoraProject.pdb
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.csproj.AssemblyReference.cache
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.AssemblyInfoInputs.cache
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.AssemblyInfo.cs
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.csproj.CoreCompileInputs.cache
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.dll
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\refint\CalculadoraProject.dll
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.pdb
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\CalculadoraProject.genruntimeconfig.cache
+C:\Estudos\DesafioCalculadoraTDD\Calculadora\obj\Debug\net7.0\ref\CalculadoraProject.dll
